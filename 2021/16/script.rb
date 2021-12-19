@@ -167,8 +167,3 @@ end
 
 c = Calculator.new
 c.do_magic()
-
-
-# 470846285078 is too low
-# 470846285079 is too low
-# 470949537659 is the right answer, achieved by?? I have off by 1??
